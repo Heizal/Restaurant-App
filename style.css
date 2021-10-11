@@ -446,7 +446,7 @@ app__img{
     display: inline-block;
     color: var(--text-color);
     margin-bottom: var(--mb-1);
-}
+}clear
 
 .footer__link:hover{
     color: var(--first-color);
